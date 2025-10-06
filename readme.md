@@ -15,3 +15,8 @@ git config --global user.email "rasffa@tasfa.ee"
 git commit -m "..."
 git remote add origin https://github.com/RainerTA-24A/learngit.git
 git push -u origin main
+git branch
+git branch feature siis git branch (teeb feature ig) git checkout feature (läheb feature branch)
+git commit -am "Add feature line 1"
+git merge feature
+git push
