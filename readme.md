@@ -23,3 +23,5 @@ git branch feature siis git branch (teeb feature ig) git checkout feature (lähe
 git commit -am "Add feature line 1"
 git merge feature
 git push
+git fetch
+git push -u origin feature
