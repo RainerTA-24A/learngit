@@ -25,3 +25,6 @@ git merge feature
 git push
 git fetch
 git push -u origin feature
+# this some bullshat
+Feature line 1
+Feature line 2
